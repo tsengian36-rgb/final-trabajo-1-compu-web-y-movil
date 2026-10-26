@@ -3,7 +3,7 @@
 Plataforma web para que estudiantes con Beca de Alimentación JUNAEB comparen precios de platos, registren sus gastos y sepan qué pueden costear cada día para que el saldo alcance hasta fin de mes.
 
 Proyecto de la asignatura **Computación Web y Móvil** (UTEM) — Tarea 1: Aplicación Web.
-Equipo: Natalia Torres Flores, Bryan Alexis Avila Gatica, Ian Nicolás Tseng Pereira.
+Equipo: Ian Nicolás Tseng Pereira.
 
 Este paquete corresponde a los aportes de **Ian Tseng**: logout con revocación de token (con test), motor recomendador (con test), CRUD de locales/platos/gastos, y Swagger de la API. Está pensado para subirse al repo del equipo como PRs separados — ver sección "Cómo subir esto al repo del equipo".
 
