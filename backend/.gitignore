@@ -1,8 +1,0 @@
-/log/*
-/tmp/*
-!/log/.keep
-!/tmp/.keep
-/storage/*
-!/storage/.keep
-.env*
-/public/assets
